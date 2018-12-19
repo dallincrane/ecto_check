@@ -1,0 +1,2 @@
+defmodule EctoCheck do
+end
